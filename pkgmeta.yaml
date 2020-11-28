@@ -1,7 +1,18 @@
-package-as: Addon
+package-as: KabSavedMythics
 enable-nolib-creation: no
-manual-changelog:
-  filename: CHANGELOG.md
-  markup-type: markdown
+
 move-folders:
-  Addon/Addon: KabSavedMythics
+    KabSavedMythics/KabSavedMythics: KabSavedMythics
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+license-output: LICENSE.txt
+
+ignore:
+    - CHANGELOG.md
+    - CODE_OF_CONDUCT.md
+    - LICENSE.md
+    - README.md
+    - .github
