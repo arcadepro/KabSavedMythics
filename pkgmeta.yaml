@@ -1,9 +1,6 @@
 package-as: KabSavedMythics
 enable-nolib-creation: no
 
-move-folders:
-    KabSavedMythics/KabSavedMythics: KabSavedMythics
-
 manual-changelog:
     filename: CHANGELOG.md
     markup-type: markdown
