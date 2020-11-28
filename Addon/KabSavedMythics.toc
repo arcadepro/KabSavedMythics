@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Saved Mythics
+## Interface: 90001
+## Author: Kab
+## Version: 2.00
+## Notes: Shows Mythic Lockouts in Chat. /sm for self. /smr for report to others. (you can force it with /smg to guild. /smp to party.)
+
+KabSavedMythics.lua
